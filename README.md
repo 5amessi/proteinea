@@ -1,10 +1,10 @@
 ## install
 
+run 'cd to proteinea'
+
 run 'bash setup.sh` a shell script to prepare the environment and the required packages.
 
 ## Running the project
-
-run 'cd to proteinea'
 
 run 'source env/bin/activate'
 
