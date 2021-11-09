@@ -1,6 +1,6 @@
 ## install
 
-run 'cd to proteinea'
+run 'cd proteinea'
 
 run 'bash setup.sh` a shell script to prepare the environment and the required packages.
 
