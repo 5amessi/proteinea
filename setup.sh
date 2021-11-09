@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 # get parent dir
-home="$( cd "$( dirname "${BASH_SOURCE[0]}" )"/../ && pwd )/test"
+home="$( cd "$( dirname "${BASH_SOURCE[0]}" )"/../ && pwd )/proteinea"
 
 # delete Python virtual environment and recreate it
 rm -rf $home/test/env
